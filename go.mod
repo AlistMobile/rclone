@@ -1,4 +1,4 @@
-module github.com/rclone/rclone
+module github.com/AListMobile/rclone
 
 go 1.20
 
